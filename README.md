@@ -10,7 +10,7 @@ Many iBeacon motes already advertise additional information by extending the iBe
 
 Extended iBeacons are fully compatible with iOS and MAC OS X.
 
-![iSign Payload](http://novocodev.github.io/isign-bluez/isignpayload.png)
+![iSign Payload](http://novocodev.github.io/isign-ble/isignpayload.png)
 
 ## What use is an iSign
 
